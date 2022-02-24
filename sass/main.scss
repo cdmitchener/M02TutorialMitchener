@@ -1,0 +1,5 @@
+// custom variables -- place above the import because the variables.scss declares the primary color as blue /only/ if a value hasn't already been declared
+$primary:       #c29938;
+
+// import bootstrap
+@import '../node_modules/bootstrap/scss/bootstrap';
